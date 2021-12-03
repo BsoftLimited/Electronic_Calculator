@@ -1,0 +1,62 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/bsoft/Desktop/apps/Electronic_Calculator/app/build/intermediates/res/merged/debug/values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/bsoft/Desktop/apps/Electronic_Calculator/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "49",
+                        "endOffsets": "100"
+                    },
+                    "to": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "212",
+                        "endColumns": "49",
+                        "endOffsets": "257"
+                    }
+                },
+                {
+                    "source": "/home/bsoft/Desktop/apps/Electronic_Calculator/app/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "2,4,23,19,15,27",
+                        "startColumns": "4,1,1,1,1,1",
+                        "startOffsets": "55,148,958,793,626,1128",
+                        "endLines": "3,14,26,22,18,33",
+                        "endColumns": "9,9,9,9,9,9",
+                        "endOffsets": "146,624,1126,956,791,1404"
+                    },
+                    "to": {
+                        "startLines": "7,9,20,24,28,32",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "262,358,839,1012,1180,1350",
+                        "endLines": "8,19,23,27,31,38",
+                        "endColumns": "9,9,9,9,9,9",
+                        "endOffsets": "353,834,1007,1175,1345,1626"
+                    }
+                },
+                {
+                    "source": "/home/bsoft/Desktop/apps/Electronic_Calculator/app/src/main/res/values/colors.xml",
+                    "from": {
+                        "startLines": "5,2,3,4",
+                        "startColumns": "1,1,1,1",
+                        "startOffsets": "160,52,88,123",
+                        "endColumns": "36,35,34,36",
+                        "endOffsets": "195,86,121,158"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,95,134,172",
+                        "endColumns": "39,38,37,39",
+                        "endOffsets": "90,129,167,207"
+                    }
+                }
+            ]
+        }
+    ]
+}

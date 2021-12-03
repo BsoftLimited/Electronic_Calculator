@@ -1,0 +1,4 @@
+#Fri Dec 03 18:20:38 WAT 2021
+base.0=/home/bsoft/Desktop/apps/Electronic_Calculator/app/build/intermediates/dex/debug/mergeProjectDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

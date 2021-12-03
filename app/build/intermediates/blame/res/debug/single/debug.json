@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "/home/bsoft/Desktop/apps/Electronic_Calculator/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "/home/bsoft/Desktop/apps/Electronic_Calculator/app/src/main/res/drawable-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/bsoft/Desktop/apps/Electronic_Calculator/app/build/intermediates/res/merged/debug/anim_fade_in.xml.flat",
+        "source": "/home/bsoft/Desktop/apps/Electronic_Calculator/app/src/main/res/anim/fade_in.xml"
+    },
+    {
+        "merged": "/home/bsoft/Desktop/apps/Electronic_Calculator/app/build/intermediates/res/merged/debug/anim_fade_out.xml.flat",
+        "source": "/home/bsoft/Desktop/apps/Electronic_Calculator/app/src/main/res/anim/fade_out.xml"
+    },
+    {
+        "merged": "/home/bsoft/Desktop/apps/Electronic_Calculator/app/build/intermediates/res/merged/debug/drawable_button_white.xml.flat",
+        "source": "/home/bsoft/Desktop/apps/Electronic_Calculator/app/src/main/res/drawable/button_white.xml"
+    },
+    {
+        "merged": "/home/bsoft/Desktop/apps/Electronic_Calculator/app/build/intermediates/res/merged/debug/drawable_logo.jpg.flat",
+        "source": "/home/bsoft/Desktop/apps/Electronic_Calculator/app/src/main/res/drawable/logo.jpg"
+    },
+    {
+        "merged": "/home/bsoft/Desktop/apps/Electronic_Calculator/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_launcher.png.flat",
+        "source": "/home/bsoft/Desktop/apps/Electronic_Calculator/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/bsoft/Desktop/apps/Electronic_Calculator/app/build/intermediates/res/merged/debug/layout_main.xml.flat",
+        "source": "/home/bsoft/Desktop/apps/Electronic_Calculator/app/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/home/bsoft/Desktop/apps/Electronic_Calculator/app/build/intermediates/res/merged/debug/drawable_button_black.xml.flat",
+        "source": "/home/bsoft/Desktop/apps/Electronic_Calculator/app/src/main/res/drawable/button_black.xml"
+    },
+    {
+        "merged": "/home/bsoft/Desktop/apps/Electronic_Calculator/app/build/intermediates/res/merged/debug/layout_splash.xml.flat",
+        "source": "/home/bsoft/Desktop/apps/Electronic_Calculator/app/src/main/res/layout/splash.xml"
+    },
+    {
+        "merged": "/home/bsoft/Desktop/apps/Electronic_Calculator/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_launcher.png.flat",
+        "source": "/home/bsoft/Desktop/apps/Electronic_Calculator/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/bsoft/Desktop/apps/Electronic_Calculator/app/build/intermediates/res/merged/debug/anim_fade_steady.xml.flat",
+        "source": "/home/bsoft/Desktop/apps/Electronic_Calculator/app/src/main/res/anim/fade_steady.xml"
+    },
+    {
+        "merged": "/home/bsoft/Desktop/apps/Electronic_Calculator/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_launcher.png.flat",
+        "source": "/home/bsoft/Desktop/apps/Electronic_Calculator/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/bsoft/Desktop/apps/Electronic_Calculator/app/build/intermediates/res/merged/debug/drawable_button_blue.xml.flat",
+        "source": "/home/bsoft/Desktop/apps/Electronic_Calculator/app/src/main/res/drawable/button_blue.xml"
+    },
+    {
+        "merged": "/home/bsoft/Desktop/apps/Electronic_Calculator/app/build/intermediates/res/merged/debug/drawable_button_red.xml.flat",
+        "source": "/home/bsoft/Desktop/apps/Electronic_Calculator/app/src/main/res/drawable/button_red.xml"
+    }
+]
